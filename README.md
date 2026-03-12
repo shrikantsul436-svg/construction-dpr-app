@@ -1,4 +1,4 @@
- HEAD
+ 
 
 # Construction Field Management React App
 
